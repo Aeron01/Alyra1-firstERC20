@@ -1,1 +1,1 @@
-# test-new-project
+# empty-project-solidity
